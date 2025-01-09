@@ -1,2 +1,2 @@
 # Scratch_Projekt
-Mensch ärger dich nicht in Scratch
+Mensch ärger dich nicht in Kratzen
