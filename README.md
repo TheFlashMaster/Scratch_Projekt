@@ -25,18 +25,6 @@ Das Grundprinzip des Spiels bleibt erhalten:
 
 Doch hier beginnt die moderne Abwandlung:
 
-Besondere Spielfunktionen
-	1.	Turbo-Schienen:
-Manche Streckenabschnitte sind mit elektronischen Laufbändern ausgestattet, die Figuren zusätzlich um 2 Felder vorwärtsziehen, falls sie darauf landen.
-	2.	Verzögerungsfelder:
-Andere Felder wiederum haben elektromagnetische Störungen, die die Spielfigur für eine Runde einfrieren.
-	3.	Schutzschilde:
-Jede Figur kann durch das Würfeln einer speziellen Schutzenergie für eine bestimmte Zeit gegen das Schlagen immun werden.
-	4.	Rückwärtsbewegung:
-In seltenen Fällen kann eine Figur bei einem bestimmten Ereignis dazu gezwungen werden, eine Runde lang rückwärts zu laufen!
-	5.	Tauschmanöver:
-Auf speziellen Knotenpunkten können Spieler ihre Position mit der eines Gegners tauschen – das kann ein strategischer Vorteil sein, aber auch zur eigenen Katastrophe führen.
-
 Interaktive Elemente und KI-Unterstützung
 
 1. Spiel gegen andere Spieler oder KI
@@ -48,7 +36,7 @@ In Würfelbahn können Sie entweder mit bis zu vier menschlichen Mitspielern an 
 
 2. Kommentator-Roboter “ARGUS”
 
-Damit das Spiel nicht nur spannend, sondern auch unterhaltsam bleibt, gibt es den digitalen Spielkommentator “ARGUS”. Dieser gibt zu jeder Situation passende Sprüche von sich, zum Beispiel:
+Damit das Spiel nicht nur spannend, sondern auch unterhaltsam bleibt, gibt es (bald) den digitalen Spielkommentator “ARGUS”. Dieser gibt zu jeder Situation passende Sprüche von sich, zum Beispiel:
 	•	„Oh nein, das war wohl Pech! Zurück zur Startzone!“
 	•	„Ein mutiger Schachzug – aber wird er sich auszahlen?“
 	•	„Turbo aktiviert! Diese Figur ist nicht zu stoppen!“
@@ -59,7 +47,6 @@ Technische Umsetzung in Scratch
 
 Das Spiel wurde vollständig in Scratch entwickelt und nutzt dabei:
 	•	Listen und Variablen für die Positionierung der Spielfiguren.
-	•	Zufallszahlen für die Würfelfunktion.
 	•	Bedingungen und Schleifen zur Bewegung und Interaktion.
 	•	Kollisionsabfragen, um festzustellen, wann Figuren aufeinandertreffen.
 	•	Effekte und Sounds, um das futuristische Design zu unterstreichen.
@@ -69,10 +56,15 @@ Warum dieses Spiel?
 Mensch-ärgere-Dich-nicht ist seit über 100 Jahren eines der beliebtesten Brettspiele überhaupt – aber warum sollte es in der digitalen Zukunft nicht noch spannender werden?
 
 Mit Würfelbahn: Das Ärgernis der Zukunft erleben Sie:
+
 ✅ Klassisches Spielgefühl mit neuen Elementen
+
 ✅ Taktische Möglichkeiten, die über bloßes Würfeln hinausgehen
+
 ✅ Spannung durch zufällige Ereignisse auf dem Spielfeld
+
 ✅ Moderne Optik, Animationen und Sounds
+
 ✅ Spielspaß allein oder mit Freunden
 
 Ob Sie ein Freund von Brettspielen, ein Scratch-Programmierer oder ein Strategie-Fan sind – dieses Spiel bietet Ihnen eine neue Herausforderung!
